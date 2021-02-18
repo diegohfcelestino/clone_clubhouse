@@ -17,7 +17,8 @@ Esta aplicação foi  feita em um treinamento do Mayk Brito, para aplicar os con
 
 **Diego Henrique Ferreira**
 
-Proximos passos :
+
+## Proximos passos
 
 Colocar imagens de usuários na tela 
 
