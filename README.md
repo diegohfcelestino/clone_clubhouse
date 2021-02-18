@@ -20,9 +20,9 @@ Esta aplicação foi  feita em um treinamento do Mayk Brito, para aplicar os con
 
 ## Proximos passos
 
-Colocar imagens de usuários na tela 
+- Colocar imagens de usuários na tela   
 
-Colocar links para acesso externos
+- Colocar links para acesso externos
 
-Dar vida ao menu (seta para baixo)
+- Dar vida ao menu (seta para baixo)
 
