@@ -17,3 +17,11 @@ Esta aplicação foi  feita em um treinamento do Mayk Brito, para aplicar os con
 
 **Diego Henrique Ferreira
 
+Proximos passos :
+
+Colocar imagens de usuários na tela 
+
+Colocar links para acesso externos
+
+Dar vida ao menu (seta para baixo)
+
