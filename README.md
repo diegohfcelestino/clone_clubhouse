@@ -6,7 +6,7 @@ Esta aplicação foi  feita em um treinamento do Mayk Brito, para aplicar os con
 
 ## Demonstration
 
-![alt text] (https://github.com/diegohfcelestino/clone_clubhouse/blob/master/img/demo.png?raw=true)
+![alt text](https://github.com/diegohfcelestino/clone_clubhouse/blob/master/img/demo.png?raw=true)
 
 ## Techs
 
