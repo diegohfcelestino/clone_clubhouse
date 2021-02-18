@@ -15,7 +15,7 @@ Esta aplicação foi  feita em um treinamento do Mayk Brito, para aplicar os con
 
 ## Author
 
-**Diego Henrique Ferreira **
+**Diego Henrique Ferreira**
 
 Proximos passos :
 
